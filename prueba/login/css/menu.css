@@ -1,0 +1,50 @@
+img {
+	border: none;
+
+}
+
+
+
+/* dock2 - bottom */
+#dock2 {
+		margin-top: 100px;
+	width: 100%;
+	top: 130px;
+	bottom: 0px;
+	position: relative;
+	left: 0px;
+
+}
+.dock-container2 {
+	position: absolute;
+	padding: 20px;
+	width: 386px;
+
+}
+a.dock-item2 {
+	display: block;
+	font: bold 14px Arial, Helvetica, sans-serif;
+	width: 100px;
+	color: #fff;
+	bottom: 0px;
+	position: absolute;
+	text-align: center;
+	text-decoration: none;
+	margin-right: 10px;
+	margin-left: 10px;
+
+
+}
+.dock-item2 span {
+	display: none;
+	padding: 20px;
+
+}
+.dock-item2 img {
+	border: none;
+	width: 100%;
+	margin-bottom: 0px;
+	margin-left: 10px;
+	margin-right: 10px;
+	margin-top: 5px;
+}
